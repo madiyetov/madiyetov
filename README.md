@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stat92
+- 👋 Hi, I’m @madiyetov
 - 👀 I’m interested in Frontend tools
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently using VueJS
 - 💞️ I’m looking to collaborate on really cool stuff
 - 📫 I am available on telegram: @madiyetov
 
