@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madiyetov
 - 👀 I’m interested in Frontend tools
-- 🌱 I’m currently using VueJS
+- 🌱 I’m currently using ReactJS
 - 💞️ I’m looking to collaborate on really cool stuff
 - 📫 I am available on telegram: @madiyetov
 
